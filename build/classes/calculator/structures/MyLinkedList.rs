@@ -1,0 +1,2 @@
+structures.MyLinkedList$MyNode
+structures.MyLinkedList
